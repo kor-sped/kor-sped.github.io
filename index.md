@@ -1,7 +1,13 @@
-Hello and welcome to this blog. Edit the `index.md` file to change this content. All pages on the blog, including this one, use [Markdown](https://guides.github.com/features/mastering-markdown/). You can include images:
+## Special Education in Korea.
 
-![Image of fast.ai logo](images/logo.png)
+* Introducing Special Education in Korea
+* Teaching Exceptional Children's Article translation
+* Searching & Studing All about Special Education.
 
-## This is a title
 
-And you can include links, like this [link to fast.ai](https://www.fast.ai). Posts will appear after this file. 
+## Data & SW & AI etc.
+
+1. Data Science
+2. Software & Hardware
+3. AI Education
+4. Data, SW, AI in Special Education
