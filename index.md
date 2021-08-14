@@ -8,4 +8,4 @@
 * Software & Hardware
 * AI Education
 
-*** Data, SW, AI in Special Education ***
+* Data, SW, AI in Special Education
