@@ -1,4 +1,5 @@
-# About
+## 느루 : 한꺼번에 몰아치지 아니하고 오래도록.
 
-This is where you put the contents of your *About* page. Like all your pages, it's in [Markdown](https://guides.github.com/features/mastering-markdown/) format.
+> I'm a special education teacher at elementary school. 
+> Interested in programming & AI, I want to develop software to help struggling students.
 
