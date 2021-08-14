@@ -1,4 +1,4 @@
-## Special Education in Korea.
+## Special Education
 
 * Introducing Special Education in Korea
 * Teaching Exceptional Children's Article translation
