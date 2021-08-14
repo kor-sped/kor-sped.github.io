@@ -10,4 +10,4 @@ Hello World!
 - [x] 깃허브 블로그 페이지 만들었나요?
 - [x] 첫 포스트 작성하셨나요?
 
-http://blog.naver.com/gslim70
+[나의 블로그](http://blog.naver.com/gslim70)
