@@ -1,3 +1,4 @@
-# Your blog
+# kor-sped blog (Korea special education)
 
-This is the repository for your blog! Click *_config.yml* above to get started and fill in the details. Then click *index.md* and edit it to start creating your home page.
+I'm a special education teacher at elementary school. 
+Interested in programming & AI, I want to develop software to help struggling students.
