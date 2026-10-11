@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://kor-sped.github.io/materials-site/sitemap.xml
